@@ -1,1 +1,1 @@
-PKGBUILDs of my maintained aur packages: https://aur.archlinux.org/packages/?K=FredericChopin&SeB=m
+Please find PKGBUILDs of my maintained aur packages at: https://aur4.archlinux.org/packages/?K=FredericChopin&SeB=m
